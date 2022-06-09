@@ -37,15 +37,6 @@ Instead of a RESTful API, Shop-Shop utilizes GraphQL paired with Apollo. This is
 
  
   
-  ## Installation
-  Node.js, NPM, and MongoDB must be installed on your computer. <br />
-  <br />Clone the repo: <br />
-      `git clone https://github.com/CFsylvester/shop-shop.git` <br />
-  <br />Navigate to the root directory and run: <br />
-      `npm install` <br />
-  <br />To start the server locally, run the following: <br />
-      `npm start` <br />
-  <br />Navigate to <b>localhost:3001</b> in your browser to open the application locally.
 
   ## Technology Used
 ![Mongoose.js](https://img.shields.io/badge/-Mongoose-9cf?style=for-the-badge)
@@ -70,14 +61,14 @@ Instead of a RESTful API, Shop-Shop utilizes GraphQL paired with Apollo. This is
 ![Heroku](https://img.shields.io/badge/Deployed-Heroku-inactive?style=for-the-badge)![MongoDB](https://img.shields.io/badge/Database-MongoDb-inactive?style=for-the-badge)![MongoDB Atlas](https://img.shields.io/badge/Cloud%20Database-MongoDB%20Atlas-inactive?style=for-the-badge) 
   
   ## Questions
-  Please reach out to me at [clairesylvester@clairecodes.dev](mailto:clairesylvester@clairecodes.dev?subject=[GitHub%shop-shop]%20Source%20Han%20Sans)
+  Please reach out to me at [unisk434@gmail.com](mailto:unisk434@gmail.com?subject=[GitHub%shop-shop]%20Source%20Han%20Sans)
 
   ## Links
   - **[Deployed App](https://shop-shop-mern.herokuapp.com/)**
-  - **[GitHub Repo](https://github.com/CFsylvester/shop-shop)**
-  - **[My Portfolio](clairecodes.dev)**
-  - **[Connect on LinkedIn](https://www.linkedin.com/in/claire-sylvester-386373143/)**
-  - **[GitHub profile](https://github.com/CFsylvester)    ![Github Followers](https://img.shields.io/github/followers/CFsylvester?style=social)**
+  - **[GitHub Repo](https://github.com/unis434/shop-shop)**
+  - **[My Portfolio](https;//unis434.github.io/Personal_Resume/index.html)**
+  - **[Connect on LinkedIn](https://www.linkedin.com/in/unisk434)**
+  - **[GitHub profile](https://github.com/Unis434)    ![Github Followers](https://img.shields.io/github/followers/Unis434?style=social)**
 
   ## License 
   This application uses the MIT license.  
