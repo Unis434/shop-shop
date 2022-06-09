@@ -64,7 +64,7 @@ Instead of a RESTful API, Shop-Shop utilizes GraphQL paired with Apollo. This is
   Please reach out to me at [unisk434@gmail.com](mailto:unisk434@gmail.com?subject=[GitHub%shop-shop]%20Source%20Han%20Sans)
 
   ## Links
-  - **[Deployed App](https://shop-shop-mern.herokuapp.com/)**
+  //- **[Deployed App](https://shop-shop-mern.herokuapp.com/)**//
   - **[GitHub Repo](https://github.com/unis434/shop-shop)**
   - **[My Portfolio](https://unis434.github.io/Personal_Resume/index.html)**
   - **[Connect on LinkedIn](https://www.linkedin.com/in/unisk434)**
