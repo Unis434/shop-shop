@@ -66,7 +66,7 @@ Instead of a RESTful API, Shop-Shop utilizes GraphQL paired with Apollo. This is
   ## Links
   - **[Deployed App](https://shop-shop-mern.herokuapp.com/)**
   - **[GitHub Repo](https://github.com/unis434/shop-shop)**
-  - **[My Portfolio](https;//unis434.github.io/Personal_Resume/index.html)**
+  - **[My Portfolio](https://unis434.github.io/Personal_Resume/index.html)**
   - **[Connect on LinkedIn](https://www.linkedin.com/in/unisk434)**
   - **[GitHub profile](https://github.com/Unis434)    ![Github Followers](https://img.shields.io/github/followers/Unis434?style=social)**
 
